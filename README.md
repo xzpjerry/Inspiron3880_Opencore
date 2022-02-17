@@ -2,6 +2,7 @@
 
 Current Opencore Version: 0.7.7
 
+```
                     'c.          dev@zhipengx.local
                  ,xNMM.          ------------------
                .OMMMMo           OS: macOS Catalina 10.15.7 19H15 x86_64
@@ -21,3 +22,4 @@ Current Opencore Version: 0.7.7
        .cooc,.    .,coo:.
 
 
+```
